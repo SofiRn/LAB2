@@ -1,0 +1,10 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.cardfeatured {
+	display: flex;
+	flex-direction: flex-direction: row;
+
+}
+

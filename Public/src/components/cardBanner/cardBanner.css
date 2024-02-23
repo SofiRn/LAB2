@@ -1,0 +1,21 @@
+.banner1 {
+	background-color: rgb(0, 42, 255);
+	justify-content: center;
+}
+
+.img {
+	border-radius: 2rem;
+	width: 80%;
+	height: 100%;
+	margin: 0;
+	justify-content: center;
+}
+
+.button {
+	background-color: red;
+	border: none;
+	border-radius: 1rem;
+	color: white;
+	padding: 1rem;
+	font-family: 'Montserrat', sans-serif;
+}
